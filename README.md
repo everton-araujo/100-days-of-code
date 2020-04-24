@@ -8,6 +8,5 @@ Those are my projects and logs for the challenge:
 
 ## Projects 
 
-
 ## Daily Log
-**Day 1:** Start a Web Developer [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery).
+**Day 1:** Started a Web Developer [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery) and did four sessions of it.
