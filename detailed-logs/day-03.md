@@ -1,5 +1,4 @@
 I finished the section 6 and 7 from the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery).<br>
-Now the css part is completed.<br>
 And complete that [css selector game](https://flukeout.github.io/)<br>
 And took the CSS [quiz](https://www.w3schools.com/css/css_quiz.asp) from [w3schools]("https://www.w3schools.com/") and make 84%  of it (21/25)
 
