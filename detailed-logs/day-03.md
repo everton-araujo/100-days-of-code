@@ -5,7 +5,8 @@ And took the CSS [quiz](https://www.w3schools.com/css/css_quiz.asp) from [w3scho
 
 ## Some CSS anotations
 
-\* This can select all elements
+\*<br>
+This can select all elements
 
 element1 > element2<br>
 Means that you only apply the style for the child of the element1 (that is element2), if i want to reach the element3 will not work<br>
