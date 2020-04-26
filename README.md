@@ -4,6 +4,8 @@
 
 The rules are that i have to create some kind of code each day during the challenge. That include courses, small projects, contribute to open source, translate documentation, basically anything related to developement is valid.
 
+There is a detaled folder in the project that explains what a did in the day.
+
 Those are my projects and logs for the challenge:
 
 ## Projects 
