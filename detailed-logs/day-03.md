@@ -41,3 +41,5 @@ overwrite everything that comes later in the cascade, this is the styling that w
 [color pick](https://paletton.com/#uid=1000u0kleqtbzEKgVuIpcmGtdhZ)
 
 [text fonts](https://fonts.google.com/)
+
+[css minifier](https://cssminifier.com/)
