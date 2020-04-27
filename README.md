@@ -9,6 +9,7 @@ There is a folder in the project that explains what a did in the day.
 Those are my projects and logs for the challenge:
 
 ## Projects 
+* [Responsive Website Template](https://everton-araujo.github.io/responsive-html-template/) (day 05).
 
 ## Daily Logs
 **Day 01:** Started a Web Developer course [Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery) and did four sessions of it.
