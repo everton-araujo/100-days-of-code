@@ -16,3 +16,5 @@ Those are my projects and logs for the challenge:
 **Day 2:** Finished the fifth section of the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery), completing the html part and take that [quiz](https://www.w3schools.com/html/html_quiz.asp) from [w3schools](https://www.w3schools.com/).
 
 **Day 3:** Finished the sections 6 and 7 from the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery), completing the basics of css and take that [quiz](https://www.w3schools.com/css/css_quiz.asp) from [w3schools](https://www.w3schools.com/).
+
+**Day 4:** Finished the sections 8 and 9 from the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery), finishing the css part.
