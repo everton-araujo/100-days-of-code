@@ -14,8 +14,10 @@ Those are my projects and logs for the challenge:
 ## Daily Logs
 **Day 01:** Started a Web Developer course [Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery) and did four sessions of it.
 
-**Day 02:** Finished the fifth section of the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery), completing the html part and take that [quiz](https://www.w3schools.com/html/html_quiz.asp) from [w3schools](https://www.w3schools.com/).
+**Day 02:** Finished the fifth section of the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery), completing the html part and take that [quiz](https://www.w3schools.com/html/html_quiz.asp) from [w3schools](https://www.w3schools.com/). 
 
 **Day 03:** Finished the sections 6 and 7 from the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery), completing the basics of css and take that [quiz](https://www.w3schools.com/css/css_quiz.asp) from [w3schools](https://www.w3schools.com/).
 
-**Day 04:** Finished the sections 8 and 9 from the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery), finishing the css part and make a [responsive template](https://everton-araujo.github.io/responsive-html-template/).
+**Day 04:** Finished the sections 8 and 9 from the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery), finishing the css part.
+
+**Day 05:**  Make a [responsive website template](https://everton-araujo.github.io/responsive-html-template/). [Repository](https://github.com/everton-araujo/responsive-html-template).
