@@ -1,0 +1,1 @@
+Started the JS part of the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery).

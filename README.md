@@ -21,3 +21,5 @@ Those are my projects and logs for the challenge:
 **Day 04:** Finished the sections 8 and 9 from the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery), finishing the css part.
 
 **Day 05:**  Make a [responsive website template](https://everton-araujo.github.io/responsive-html-template/). [Repository](https://github.com/everton-araujo/responsive-html-template).
+
+**Day 06:** Started the JS part of the [course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery).
