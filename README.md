@@ -1,3 +1,7 @@
+# UPDATE
+### Had to take a breake from the challenge, for hurting my wrist and arm. I will redo it later from day one.
+# 
+
 # 100 Days of Code (April 23, 2020 - August 01, 2020)
 
 *This is a record of my 100 Days of Code Challenge.*
